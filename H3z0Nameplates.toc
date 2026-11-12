@@ -1,0 +1,24 @@
+## Interface: 16001, 120105, 120107
+## Title: H3z0 Nameplates
+## Notes: Custom Blizzard-native nameplates and aura presentation for World of Warcraft: Forever and Midnight.
+## OptionalDeps: Blizzard_AuraContainer, UsefulPlatesAndTooltips
+## Author: H3z0
+## X-License: All Rights Reserved
+## Version: 0.1.6
+## IconTexture: Interface\AddOns\H3z0Nameplates\Media\Icon.tga
+## SavedVariables: H3z0NameplatesDB
+
+Libs/LibStub/LibStub.lua
+Libs/CallbackHandler-1.0/CallbackHandler-1.0.lua
+Libs/LibSharedMedia-3.0/LibSharedMedia-3.0.lua
+Code/Core/Core.lua
+Code/Core/Media.lua
+Code/Nameplates/Core.lua
+Code/Nameplates/NativeParity.lua
+Code/Nameplates/ComboPoints.lua
+Code/Nameplates/DoesItDie.lua
+Code/Designer/Core.lua
+Code/Nameplates/AuraContainers.lua
+Code/Settings/GameSettings.lua
+Code/Settings/Options.lua
+Code/Settings/Minimap.lua
